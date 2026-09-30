@@ -1,0 +1,4 @@
+interface:
+  display_name: "求职备考笔记工坊"
+  short_description: "将原资料或新主题制作成成套求职备考笔记，配封面内页、文案与编号文件包"
+  default_prompt: "使用 $career-study-notes，根据我提供的资料或新主题，制作对应的笔记图片、标题和文案，按篇编号保存并检查交付。"
